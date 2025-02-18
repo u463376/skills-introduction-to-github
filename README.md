@@ -1,4 +1,4 @@
-<header>
+<this is a new project>
 
 <!--
   <<< Author notes: Course header >>>
